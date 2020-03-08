@@ -6,11 +6,12 @@ end
 
 def subtraction(num1, num2)
   subtract = num2 - num1
-  puts 
+  puts subtract
+  subtract
 end
 
 def division(num1, num2)
-
+  quotient = 
 end
 
 def multiplication(num1, num2)
